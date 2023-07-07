@@ -1,3 +1,5 @@
+ #бейджик сборки на Github Pages через CI [![Build status](https://ci.appveyor.com/api/projects/status/c3wt3yvuavfue1fu?svg=true)](https://ci.appveyor.com/project/juliaivi/ahj-2-3)
+
 ### In-Memory Sorting (задача со звёздочкой)
 
 Важно: эта задача не является обязательной. Её (не)выполнение не влияет на получение зачёта по ДЗ.
